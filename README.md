@@ -1,6 +1,6 @@
 # VisualizeSorting
 
- 🌍 Deployed Link : [`https://deepak91168.github.io/VisualizeSorting/`](https://visualize-sorting-eight.vercel.app/)
+ 🌍 Deployed Link : [`https://visualize-sorting-eight.vercel.app/`](https://visualize-sorting-eight.vercel.app/)
 
  A web application hosted on github pages, designed to showcase the visualization of renowned sorting algorithms including bubble sort, insertion sort, selection sort, merge sort, and quick sort.
 

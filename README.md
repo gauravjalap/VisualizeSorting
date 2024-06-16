@@ -54,7 +54,7 @@
 
 Feel free to create new issues if you identify any bugs, improvements, or new feature requests. Follow these steps:
 
-1. Go to the [`issues`](https://github.com/Deepak91168/VisualizeSorting/issues) of the repository.
+1. Go to the [`issues`](https://github.com/gauravjalap/VisualizeSorting/issues) of the repository.
 2. Click on the `New issue` button.
 
 Thank's in advance for contribution🌟
